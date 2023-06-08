@@ -25,7 +25,7 @@ I am a Bachelor of Information Systems who has an interest in web development es
 ![](https://github-contributor-stats.vercel.app/api?username=hnfarif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Spotify
-![](![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aeifhanif2000&unique={true|1|on|yes}))
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aeifhanif2000&unique={true|1|on|yes})
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hnfarif&icon=0&color=12)](https://visitcount.itsvg.in)
