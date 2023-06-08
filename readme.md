@@ -12,6 +12,9 @@ I am a Bachelor of Information Systems who has an interest in web development es
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hnfarif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hnfarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Contributions
+<img src="https://raw.githubusercontent.com/hnfarif/hnfarif/output/snake.svg" alt="Snake animation" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hnfarif&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
