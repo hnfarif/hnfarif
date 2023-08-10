@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Bachelor of Information Systems who has an interest in web development. I have 2 years of freelance experience in developing websites using the Laravel framework such as ERP projects, university projects, and practical work. I have a high desire to explore website development by self-study
+I am a Bachelor of Information Systems who has an interest in web development. I have 2 years of experience in developing websites using the Laravel framework such as ERP projects, university projects, and practical work. I have a high desire to explore website development by self-study
 
 
 ## 🌐 Socials:
