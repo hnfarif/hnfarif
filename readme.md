@@ -27,6 +27,5 @@ I am a Bachelor of Information Systems who has an interest in web development. I
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aeifhanif2000&unique={true|1|on|yes})
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hnfarif&label=Fans&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=hnfarif&label=Secret%20Admirers&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
