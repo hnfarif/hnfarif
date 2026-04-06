@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Bachelor of Information Systems who has an interest in web development. I have 2 years of experience in developing websites using the Laravel framework such as ERP projects, university projects, and practical work. I have a high desire to explore website development by self-study
+I bring over three years of hands-on experience in developing and maintaining web-based internal systems across corporate, academic, and banking domains. My technical expertise includes Laravel, NestJS, Spring Boot, and React.js, with a focus on building efficient and scalable applications.
 
 
 ## 🌐 Socials:
